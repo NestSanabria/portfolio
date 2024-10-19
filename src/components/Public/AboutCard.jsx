@@ -31,7 +31,7 @@ function AboutCard() {
           </ul>
 
           <p style={{ color: "rgb(155 126 172)" }}>
-          "Sé el cambio que quieres ver en el mundo"{" "}
+            "Sé el cambio que quieres ver en el mundo"{" "}
           </p>
           <footer className="blockquote-footer">Mahatma Gandhi</footer>
         </blockquote>
