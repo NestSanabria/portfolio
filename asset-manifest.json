@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.fd09d611.css",
-    "main.js": "/portfolio/static/js/main.d417ed11.js",
+    "main.js": "/portfolio/static/js/main.89c58ecd.js",
     "static/js/453.1407b060.chunk.js": "/portfolio/static/js/453.1407b060.chunk.js",
     "static/media/Nestor_Sanabria.pdf": "/portfolio/static/media/Nestor_Sanabria.179e90f192294a544ceb.pdf",
     "static/media/blog.png": "/portfolio/static/media/blog.fb8ab7f271a937d5fc01.png",
@@ -15,11 +15,11 @@
     "static/media/preloader.svg": "/portfolio/static/media/preloader.507afc01a6dc74da3ee4.svg",
     "index.html": "/portfolio/index.html",
     "main.fd09d611.css.map": "/portfolio/static/css/main.fd09d611.css.map",
-    "main.d417ed11.js.map": "/portfolio/static/js/main.d417ed11.js.map",
+    "main.89c58ecd.js.map": "/portfolio/static/js/main.89c58ecd.js.map",
     "453.1407b060.chunk.js.map": "/portfolio/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fd09d611.css",
-    "static/js/main.d417ed11.js"
+    "static/js/main.89c58ecd.js"
   ]
 }
